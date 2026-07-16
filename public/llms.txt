@@ -1,0 +1,89 @@
+# אולטרס הפועל טירת כרמל — Generative Engine Optimization Map
+
+> A passionate ultras fan club dedicated to the Hapoel Tirat Carmel basketball team. The site represents hardcore basketball supporters with strong team identity, fan culture, and community spirit. The brand revolves around loyalty, energy, and local pride for the Hapoel Tirat Carmel basketball club.
+
+---
+
+## Pages
+
+### בית
+https://-b050a847.zappy5.app
+ברוכים הבאים לבית של האולטראס האדומים! מועדון אוהדים ספורטיבי עם נשמה, אנרגיה מטורפת ונאמנות ללא פשרות להפועל טירת כרמל. בואו להיות חלק מהמשפחה.
+
+### אודות האולטראס
+https://-b050a847.zappy5.app/about
+גלו מי אנחנו, האולטראס של הפועל טירת כרמל. סיפור על חבר&#39;ה עם דם אדום, תרבות אוהדים שורשית וגאווה מקומית ששורפת את המגרש בכל משחק. היכנסו להכיר מקרוב.
+
+### תרבות יום משחק
+https://-b050a847.zappy5.app/matchday-culture
+היכונו לחוויית יום משחק שלא תשכחו! תופים, דגלים, עידוד בלתי פוסק ואדרנלין טהור. כך האולטראס של הפועל טירת כרמל הופכים כל משחק לחגיגה. בואו לחוות את הטירוף.
+
+### גלריה
+https://-b050a847.zappy5.app/gallery
+צפו בגלריית התמונות והסרטונים העדכנית של האולטראס. תמונות מטורפות מהיציע, מאחורי הקלעים וחגיגות הניצחון של הפועל טירת כרמל. לחצו והדבקו חיוך אדום על הפנים.
+
+### צור קשר
+https://-b050a847.zappy5.app/contact
+רוצים להצטרף לשורות האולטראס, להזמין ציוד או סתם לשאול שאלה? צרו איתנו קשר ישיר ותהפכו לחלק מהכוח האדום של הפועל טירת כרמל. אנחנו מחכים לכם!
+
+### Products
+https://-b050a847.zappy5.app/products
+המוצרים שלנו - אולטרס הפועל טירת כרמל
+
+### Product Detail
+https://-b050a847.zappy5.app/product/:slug
+פרטי המוצר - אולטרס הפועל טירת כרמל
+
+### Category
+https://-b050a847.zappy5.app/category/:slug
+מוצרים - אולטרס הפועל טירת כרמל
+
+### תודה שפניתם אלינו
+https://-b050a847.zappy5.app/thank-you
+אולטרס הפועל טירת כרמל - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-b050a847.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-b050a847.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-b050a847.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About אולטרס הפועל טירת כרמל
+A passionate ultras fan club dedicated to the Hapoel Tirat Carmel basketball team. The site represents hardcore basketball supporters with strong team identity, fan culture, and community spirit. The brand revolves around loyalty, energy, and local pride for the Hapoel Tirat Carmel basketball club.
+
+## Target Audience
+- אוהדי קבוצת הכדורסל הפועל טירת כרמל
+- אוהדי הפועל טירת כרמל
+- חובבי ספורט מקומיים
+- שחקני כדורסל צעירים
+
+## Industry
+Sports Fan Club
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-b050a847.zappy5.app/sitemap.xml
+- Robots: https://-b050a847.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-b050a847.zappy5.app/llms-full.txt
+- Products (JSON): https://-b050a847.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-b050a847.zappy5.app/product-feed.xml
